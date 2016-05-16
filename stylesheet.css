@@ -1,0 +1,38 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h1 {
+	text-align: center
+}
+
+.header{
+	display: inline;
+	text-align: center;
+}
+
+p {
+	line-height: 0;
+	
+}
+
+.profile {
+	line-height: 1;
+}
+
+.container{
+	margin: 30px;
+}
+
+.logline{
+	border-bottom: 2px solid black;
+}
+
+.experience{
+	border-bottom: 2px solid black;
+	}
+
+.education{
+	border-bottom: 2px solid black;
+	
+}
