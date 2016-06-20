@@ -1,0 +1,43 @@
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin-left: 20px;
+}
+
+h1 {
+	text-align: center
+}
+
+header{
+	display: inline;
+	
+	margin: 20px;
+}
+
+header p{
+	padding-top: 15px;
+	text-align: center;
+}
+
+p {
+	line-height: 0;
+}
+
+.profile {
+	line-height: 1;
+}
+
+main p{
+	font-style: italic;
+}
+
+main ul{
+	padding-top: 5px;
+	border-top: 2px solid black;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	border-radius: 15px;
+	box-shadow: 0 10px 10px rgba(0, 0, 0, 0.75);
+}
